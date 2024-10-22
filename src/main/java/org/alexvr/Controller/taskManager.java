@@ -1,4 +1,4 @@
-package org.alexvr;
+package org.alexvr.Controller;
 import org.alexvr.Model.Task;
 
 import java.time.LocalDate;
